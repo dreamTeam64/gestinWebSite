@@ -11,6 +11,7 @@
 	  <!-- Latest compiled and minified JavaScript -->
     <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 	  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+    <script src="https://use.fontawesome.com/ad345ec97a.js"></script>
   </head>
   <body>
     <div class="global">
@@ -19,13 +20,13 @@
 
         <div class="menu">
           <ul>
-            <li><a href="#">Home</a></li>
-            <li><a href="#">Services</a></li>
-            <li><a href="#">Produits</a></li>
-            <li><a href="#">Projets</a></li>
-            <li><a href="#">News</a></li>
-            <li><a href="#">About Us</a></li>
-            <li><a href="#">Contact Us</a></li>
+            <li><span class="glyphicon glyphicon-home" aria-hidden="true"></span><a href="#">Home</a></li>
+            <li><span class="glyphicon glyphicon-cog" aria-hidden="true"></span><a href="#">Services</a></li>
+            <li><span class="fa fa-cubes" aria-hidden="true"></span><a href="#">Produits</a></li>
+            <li><span class="fa fa-pie-chart" aria-hidden="true"></span><a href="#">Projets</a></li>
+            <li><span class="fa fa-commenting" aria-hidden="true"></span><a href="#">News</a></li>
+            <li><span class="fa fa-quote-left" aria-hidden="true"></span><a href="#">About Us</a></li>
+            <li><span class="fa fa-paper-plane" aria-hidden="true"></span><a href="#">Contact Us</a></li>
           </ul>
         </div>
 

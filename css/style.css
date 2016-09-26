@@ -54,6 +54,10 @@ body{
   list-style: none;
 }
 
+.menu li a{
+  padding-left: 10px;
+}
+
 .wrapper{
   width: 100%;
   position: relative;
