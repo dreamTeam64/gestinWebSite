@@ -16,14 +16,23 @@
     <div class="global">
       <!-- Header -->
       <div class="header">
-        <div class="banner"></div>
+
         <div class="menu">
           <ul>
-            <li>Accueil</li>
-            <li>Projets</li>
-            <li>Contact</li>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Services</a></li>
+            <li><a href="#">Produits</a></li>
+            <li><a href="#">Projets</a></li>
+            <li><a href="#">News</a></li>
+            <li><a href="#">About Us</a></li>
+            <li><a href="#">Contact Us</a></li>
           </ul>
         </div>
+
+        <div class="mess active">
+
+        </div>
+
       </div>
 
       <div class="wrapper">
