@@ -12,6 +12,9 @@
     <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 	  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
     <script src="https://use.fontawesome.com/ad345ec97a.js"></script>
+    <script   src="https://code.jquery.com/jquery-3.1.1.min.js"   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="   crossorigin="anonymous"></script>
+
+    </script>
   </head>
   <body>
     <div class="global">
@@ -20,18 +23,19 @@
 
         <div class="menu">
           <ul>
-            <li><span class="glyphicon glyphicon-home" aria-hidden="true"></span><a href="#">Home</a></li>
-            <li><span class="glyphicon glyphicon-cog" aria-hidden="true"></span><a href="#">Services</a></li>
-            <li><span class="fa fa-cubes" aria-hidden="true"></span><a href="#">Produits</a></li>
-            <li><span class="fa fa-pie-chart" aria-hidden="true"></span><a href="#">Projets</a></li>
-            <li><span class="fa fa-commenting" aria-hidden="true"></span><a href="#">News</a></li>
-            <li><span class="fa fa-quote-left" aria-hidden="true"></span><a href="#">About Us</a></li>
-            <li><span class="fa fa-paper-plane" aria-hidden="true"></span><a href="#">Contact Us</a></li>
+            <li><span class="glyphicon glyphicon-home" aria-hidden="true"></span><a href="/index.php">Home</a></li>
+            <li><span class="glyphicon glyphicon-cog" aria-hidden="true"></span><a href="/service.php">Services</a></li>
+            <li><span class="fa fa-cubes" aria-hidden="true"></span><a href="/produit.php">Produits</a></li>
+            <li><span class="fa fa-pie-chart" aria-hidden="true"></span><a href="/projet.php">Projets</a></li>
+            <li><span class="fa fa-commenting" aria-hidden="true"></span><a href="/news.php">News</a></li>
+            <li><span class="fa fa-quote-left" aria-hidden="true"></span><a href="/aboutus.php">About Us</a></li>
+            <li><span class="fa fa-paper-plane" aria-hidden="true"></span><a href="/contact.php">Contact Us</a></li>
           </ul>
         </div>
 
-        <div class="mess active">
-
+        <div class="mess">
+          <span class="active"><strong>Nous sommes créateur de communication sur le terrain</strong></span>
+          <span class="inactive"><strong>Faites nous confiance comme 24 autres entreprises</strong></span>
         </div>
 
       </div>
@@ -46,3 +50,4 @@
     </div>
   </body>
 </html>
+<script src="js/animAccueil.js"></script>
