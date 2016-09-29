@@ -91,7 +91,8 @@
       </div>
 
       <div class="footer">
-
+        <br>
+        <center>Crafted by Thoraval Francois, Gestin Loic and Fontaine Pierre</center>
       </div>
     </div>
   </body>
