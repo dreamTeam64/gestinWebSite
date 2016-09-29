@@ -23,13 +23,13 @@
 
         <div class="menu">
           <ul>
-            <li><span class="glyphicon glyphicon-home" aria-hidden="true"></span><a href="/index.php">Home</a></li>
-            <li><span class="glyphicon glyphicon-cog" aria-hidden="true"></span><a href="/service.php">Services</a></li>
-            <li><span class="fa fa-cubes" aria-hidden="true"></span><a href="/produit.php">Produits</a></li>
-            <li><span class="fa fa-pie-chart" aria-hidden="true"></span><a href="/projet.php">Projets</a></li>
-            <li><span class="fa fa-commenting" aria-hidden="true"></span><a href="/news.php">News</a></li>
-            <li><span class="fa fa-quote-left" aria-hidden="true"></span><a href="/aboutus.php">About Us</a></li>
-            <li><span class="fa fa-paper-plane" aria-hidden="true"></span><a href="/contact.php">Contact Us</a></li>
+            <li><span class="glyphicon glyphicon-home" aria-hidden="true"></span><a href="./index.php">Home</a></li>
+            <li><span class="glyphicon glyphicon-cog" aria-hidden="true"></span><a href="./service.php">Services</a></li>
+            <li><span class="fa fa-cubes" aria-hidden="true"></span><a href="./produit.php">Produits</a></li>
+            <li><span class="fa fa-pie-chart" aria-hidden="true"></span><a href="./projet.php">Projets</a></li>
+            <li><span class="fa fa-commenting" aria-hidden="true"></span><a href="./news.php">News</a></li>
+            <li><span class="fa fa-quote-left" aria-hidden="true"></span><a href="./aboutus.php">About Us</a></li>
+            <li><span class="fa fa-paper-plane" aria-hidden="true"></span><a href="./contact.php">Contact Us</a></li>
           </ul>
         </div>
 
@@ -43,6 +43,7 @@
       <div class="main">
         <div class="horiz-layout">
           <div class="speech on-left">
+            <h3>un titre qui claque !</h3>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt. Fusce maximus, turpis ac rutrum efficitur, felis metus consequat augue, a tristique nisi neque ut dui. Morbi porta lacus eros, sit amet fermentum lectus aliquet tincidunt. Aliquam molestie vulputate ex.
           </div>
 
@@ -51,6 +52,7 @@
               Petit résumé du lien ou le client va cliquer.
             </div>
             <div class="img-encart">
+              <span class="triangle"></span>
               <img src="" alt="image de fond" />
               <button type="button" name="go-to-page" class="btn btn-default btn-xs">voir ></button>
             </div>
@@ -59,6 +61,7 @@
         <br>
         <div class="horiz-layout">
           <div class="speech on-right">
+            <h3>un titre qui claque !</h3>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt. Fusce maximus, turpis ac rutrum efficitur, felis metus consequat augue, a tristique nisi neque ut dui. Morbi porta lacus eros, sit amet fermentum lectus aliquet tincidunt. Aliquam molestie vulputate ex.
           </div>
 
@@ -66,7 +69,9 @@
             <div class="text-encart">
               Petit résumé du lien ou le client va cliquer.
             </div>
+
             <div class="img-encart">
+              <span class="triangle"></span>
               <img src="" alt="image de fond" />
               <button type="button" name="go-to-page" class="btn btn-default btn-xs">voir ></button>
             </div>
@@ -75,6 +80,7 @@
         <br>
         <div class="horiz-layout">
           <div class="speech on-left">
+            <h3>un titre qui claque !</h3>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt. Fusce maximus, turpis ac rutrum efficitur, felis metus consequat augue, a tristique nisi neque ut dui. Morbi porta lacus eros, sit amet fermentum lectus aliquet tincidunt. Aliquam molestie vulputate ex.
           </div>
 
@@ -83,6 +89,7 @@
               Petit résumé du lien ou le client va cliquer.
             </div>
             <div class="img-encart">
+              <span class="triangle"></span>
               <img src="" alt="image de fond" />
               <button type="button" name="go-to-page" class="btn btn-default btn-xs">voir ></button>
             </div>
