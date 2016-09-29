@@ -98,11 +98,13 @@ hr{
 }
 
 .horiz-layout{
-  content: "";
+  display: block;
   position: relative;
   padding-top: 80px;
+  padding-bottom: 80px;
   width: 100%;
-  height: 280px;
+  height: auto;
+  overflow: hidden;
 }
 
 .speech{

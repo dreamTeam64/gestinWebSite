@@ -52,7 +52,7 @@
             </div>
             <div class="img-encart">
               <img src="" alt="image de fond" />
-              <button type="button" name="go-to-page" class="btn btn-default btn-xs">voir</button>
+              <button type="button" name="go-to-page" class="btn btn-default btn-xs">voir ></button>
             </div>
           </div>
         </div>
@@ -68,7 +68,7 @@
             </div>
             <div class="img-encart">
               <img src="" alt="image de fond" />
-              <button type="button" name="go-to-page" class="btn btn-default btn-xs">voir</button>
+              <button type="button" name="go-to-page" class="btn btn-default btn-xs">voir ></button>
             </div>
           </div>
         </div>
@@ -84,7 +84,7 @@
             </div>
             <div class="img-encart">
               <img src="" alt="image de fond" />
-              <button type="button" name="go-to-page" class="btn btn-default btn-xs">voir></button>
+              <button type="button" name="go-to-page" class="btn btn-default btn-xs">voir ></button>
             </div>
           </div>
         </div>
