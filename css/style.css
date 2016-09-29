@@ -25,6 +25,7 @@ hr{
 }
 
 .global{
+  margin: 0px;
   position: absolute;
   height: 100%;
   width: 100%;
@@ -44,7 +45,6 @@ hr{
   height: 400px;
   margin: 0px;
   box-sizing: border-box;
-  box-shadow: 10px 1px 20px #888888;
 }
 
 .banner{
@@ -105,12 +105,15 @@ hr{
   width: 100%;
   height: auto;
   overflow: hidden;
+  box-shadow: 0 6px 16px -7px gray;
+
 }
 
 .speech{
+  font-size: 20px;
   position: relative;
   height: 200px;
-  width: 400px;
+  width: 500px;
   text-align: center;
   /*border-width: 1px;
   border-color: grey;

@@ -56,7 +56,7 @@
             </div>
           </div>
         </div>
-        <hr/>
+        <br>
         <div class="horiz-layout">
           <div class="speech on-right">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt. Fusce maximus, turpis ac rutrum efficitur, felis metus consequat augue, a tristique nisi neque ut dui. Morbi porta lacus eros, sit amet fermentum lectus aliquet tincidunt. Aliquam molestie vulputate ex.
@@ -72,7 +72,7 @@
             </div>
           </div>
         </div>
-        <hr/>
+        <br>
         <div class="horiz-layout">
           <div class="speech on-left">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt. Fusce maximus, turpis ac rutrum efficitur, felis metus consequat augue, a tristique nisi neque ut dui. Morbi porta lacus eros, sit amet fermentum lectus aliquet tincidunt. Aliquam molestie vulputate ex.
