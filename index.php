@@ -100,6 +100,13 @@
       <div class="footer">
         <br>
         <center>Crafted by Thoraval Francois, Gestin Loic and Fontaine Pierre</center>
+        <br>
+        <center>
+          <a href="#">plan du site</a>
+          <a href="#">contact us</a>
+          <a href="#">mentions légales</a>
+        </center>
+
       </div>
     </div>
   </body>

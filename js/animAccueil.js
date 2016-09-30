@@ -1,19 +1,34 @@
-$(function(){
-  moveText();
-});
+window.onload = function(){
+  var mess_class;
+  var spanElt;
 
-var moveText = function(){
-  setTimeout(function(){
-    $('span[class="active"]').fadeOut();
-    $('span[class="active"]').removeClass("active");
-    $('span[class="active"]').addClass("inactive");
-    setTimeout(function(){
-      $('span[class="inactive"]').fadeIn();
-      $('span[class="inactive"]').removeClass("inactive");
-      $('span[class="inactive"]').addClass("active");
-      moveText();
-    },1000);
+  mess_class = document.getElementsByClassName('mess')[0];
 
-  },5000);
+  console.log(mess_class);
+  console.log(mess_class.childNodes);
 
-}
+  console.log(mess_class.querySelector("span"));
+  console.log(mess_class.querySelector("span").nextElementSibling);
+
+  function animText(){
+    setTimeout(function () {
+
+      spanElt = mess_class.querySelector("span");
+
+      spanElt.removeAttribute("class");
+      spanElt.setAttribute("class","inactive");
+      spanElt.nextElementSibling.removeAttribute("class");
+      spanElt.nextElementSibling.setAttribute("class","active");
+
+
+      mess_class.insertBefore(spanElt.nextElementSibling,spanElt);
+
+
+      animText();
+    }, 10000);
+  }
+
+  animText();
+
+
+};
