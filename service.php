@@ -35,7 +35,68 @@
       </div>
 
       <div class="main">
+        <div class="horiz-layout">
+          <center><h3>services proposés</h3></center>
+          <br/>
+          <div class="service">
+            <div class="service-title">
+              <h4>Communication</h4>
+            </div>
+            <div class="service-img">
 
+            </div>
+            <div class="service-summary">
+
+            </div>
+          </div>
+
+          <div class="service">
+            <div class="service-title">
+              <h4>Management</h4>
+            </div>
+            <div class="service-img">
+
+            </div>
+            <div class="service-summary">
+
+            </div>
+          </div>
+
+          <div class="service">
+            <div class="service-title">
+              <h4>Solutions</h4>
+            </div>
+            <div class="service-img">
+
+            </div>
+            <div class="service-summary">
+
+            </div>
+          </div>
+
+          <div class="service">
+            <div class="service-title">
+              <h4>Stratégie</h4>
+            </div>
+            <div class="service-img">
+
+            </div>
+            <div class="service-summary">
+
+            </div>
+          </div>
+        </div>
+        <div class="footer">
+          <br>
+          <center>Crafted by Thoraval Francois, Gestin Loic and Fontaine Pierre</center>
+          <br>
+          <center>
+            <a href="#">plan du site</a>
+            <a href="#">contact us</a>
+            <a href="#">mentions légales</a>
+          </center>
+
+        </div>
     </div>
   </body>
 </html>
