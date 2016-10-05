@@ -38,53 +38,56 @@
         <div class="horiz-layout">
           <center><h3>services proposés</h3></center>
           <br/>
-          <div class="service">
-            <div class="service-title">
-              <h4>Communication</h4>
-            </div>
-            <div class="service-img">
+          <div class="container">
+            <div class="service">
+              <div class="service-title">
+                <h4>Communication</h4>
+              </div>
+              <div class="service-img">
 
-            </div>
-            <div class="service-summary">
+              </div>
+              <div class="service-summary">
 
+              </div>
+            </div>
+
+            <div class="service">
+              <div class="service-title">
+                <h4>Management</h4>
+              </div>
+              <div class="service-img">
+
+              </div>
+              <div class="service-summary">
+
+              </div>
+            </div>
+
+            <div class="service">
+              <div class="service-title">
+                <h4>Solutions</h4>
+              </div>
+              <div class="service-img">
+
+              </div>
+              <div class="service-summary">
+
+              </div>
+            </div>
+
+            <div class="service">
+              <div class="service-title">
+                <h4>Stratégie</h4>
+              </div>
+              <div class="service-img">
+
+              </div>
+              <div class="service-summary">
+
+              </div>
             </div>
           </div>
 
-          <div class="service">
-            <div class="service-title">
-              <h4>Management</h4>
-            </div>
-            <div class="service-img">
-
-            </div>
-            <div class="service-summary">
-
-            </div>
-          </div>
-
-          <div class="service">
-            <div class="service-title">
-              <h4>Solutions</h4>
-            </div>
-            <div class="service-img">
-
-            </div>
-            <div class="service-summary">
-
-            </div>
-          </div>
-
-          <div class="service">
-            <div class="service-title">
-              <h4>Stratégie</h4>
-            </div>
-            <div class="service-img">
-
-            </div>
-            <div class="service-summary">
-
-            </div>
-          </div>
         </div>
         <div class="footer">
           <br>
