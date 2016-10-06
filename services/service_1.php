@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>produits</title>
+    <title>service</title>
     <link href="css/style.css" rel="stylesheet" type="text/css" media="all">
     <!-- Latest compiled and minified CSS -->
 	  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
@@ -35,9 +35,7 @@
       </div>
 
       <div class="main">
-        <div class="horiz-layout">
 
-        </div>
         <div class="footer">
           <br>
           <center>Crafted by Thoraval Francois, Gestin Loic and Fontaine Pierre</center>
@@ -49,7 +47,7 @@
           </center>
 
         </div>
-      </div>
+    </div>
   </body>
 </html>
 <script src="js/animAccueil.js"></script>

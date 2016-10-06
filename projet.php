@@ -35,8 +35,32 @@
       </div>
 
       <div class="main">
-
-    </div>
+        <div class="horiz-layout" id="chrono">
+          <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1pv9HRzNu4bIs3y4OcFBqf9Ah-Y28HuE8NXZkHRjZ6hs&font=Default&lang=fr&initial_zoom=2&height=650' width='100%' height='650' frameborder='0'></iframe>
+        </div>
+        <div class="horiz-layout" id="sparfell">
+          <h3>#Création de Sparfell Industry <a class="fa fa-link" aria-hidden="true" href="#chrono" target="_parent"></a></h3> <br/>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.
+          </p>
+        </div>
+        <div class="horiz-layout" id="dakar">
+          <h3>#Projet communication à Dakar (Sénégal) <a class="fa fa-link" aria-hidden="true" href="#chrono" target="_parent"></a></h3><br/>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.
+          </p>
+        </div>
+        <div class="footer">
+          <br>
+          <center>Crafted by Thoraval Francois, Gestin Loic and Fontaine Pierre</center>
+          <br>
+          <center>
+            <a href="#">plan du site</a>
+            <a href="#">contact us</a>
+            <a href="#">mentions légales</a>
+          </center>
+        </div>
+      </div>
   </body>
 </html>
 <script src="js/animAccueil.js"></script>

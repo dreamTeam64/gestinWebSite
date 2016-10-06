@@ -36,8 +36,6 @@
 
       <div class="main">
         <div class="horiz-layout">
-          <center><h3>services proposés</h3></center>
-          <br/>
           <div class="container">
             <div class="service">
               <div class="service-title">
@@ -47,7 +45,7 @@
 
               </div>
               <div class="service-summary">
-
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.
               </div>
             </div>
 
@@ -59,7 +57,7 @@
 
               </div>
               <div class="service-summary">
-
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.
               </div>
             </div>
 
@@ -71,7 +69,7 @@
 
               </div>
               <div class="service-summary">
-
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.
               </div>
             </div>
 
@@ -83,7 +81,7 @@
 
               </div>
               <div class="service-summary">
-
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.
               </div>
             </div>
           </div>
