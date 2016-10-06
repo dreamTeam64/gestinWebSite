@@ -39,14 +39,18 @@
           <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1pv9HRzNu4bIs3y4OcFBqf9Ah-Y28HuE8NXZkHRjZ6hs&font=Default&lang=fr&initial_zoom=2&height=650' width='100%' height='650' frameborder='0'></iframe>
         </div>
         <div class="horiz-layout" id="sparfell">
-          <h3>#Création de Sparfell Industry <a class="fa fa-link" aria-hidden="true" href="#chrono" target="_parent"></a></h3> <br/>
+          <div class="intro">
+            <h3>#Création de Sparfell Industry <a class="fa fa-link" aria-hidden="true" href="#chrono" target="_parent"></a></h3> <br/>
+          </div>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit.
             Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.
           </p>
         </div>
         <div class="horiz-layout" id="dakar">
-          <h3>#Projet communication à Dakar (Sénégal) <a class="fa fa-link" aria-hidden="true" href="#chrono" target="_parent"></a></h3><br/>
+          <div class="intro">
+            <h3>#Projet communication à Dakar (Sénégal) <a class="fa fa-link" aria-hidden="true" href="#chrono" target="_parent"></a></h3><br/>  
+          </div>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.
           </p>

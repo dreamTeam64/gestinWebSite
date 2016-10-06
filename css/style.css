@@ -111,8 +111,8 @@ hr{
 }
 
 .horiz-layout p{
-  margin-left: 30%;
-  margin-right: 30%;
+  margin-left: 25%;
+  margin-right: 25%;
   text-indent: 150px;
 }
 
@@ -239,7 +239,7 @@ hr{
 
 /* element de contact*/
 #map{
-	position: relative;
+	position: fixed;
 	height: 500px;
 }
 .intro{
