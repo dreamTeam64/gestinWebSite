@@ -14,6 +14,8 @@ function initMap() {
   disableDoubleClickZoom:true
   });
 
+  //just a commit test
+
   // Create a marker and set its position.
   var marker = new google.maps.Marker({
   map: map,
