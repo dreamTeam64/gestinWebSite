@@ -39,8 +39,8 @@
           <div class="row">
             <div class="col-md-4">
               <div class="">
-                <h1>Contact Us</h1>
-                <p> What the fuck are we doing outta here </p>
+                <center><h2>Contact Us</h2></center>
+                What the fuck are we doing outta here
               </div>
               <hr />
               <div class="">
@@ -49,11 +49,13 @@
             </div>
 
             <div class="col-md-8">
-              <h2>Enquiry Form</h2>
-              <p>
+              <div class="intro col-xs-10">
+                <h2>Enquiry Form</h2>
+
                 Please complete the enquiry form below with your contact details and enquiry.
                 Fields marked with * are mandatory
-              </p>
+              </div>
+
               <form>
                 <div class="form-group">
                   <div class="col-xs-5">

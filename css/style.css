@@ -236,6 +236,12 @@ hr{
   height: 100%;
   background-color: #64B5F6;
 }
+
+/* element de contact*/
+
+.intro{
+  text-align: center;
+}
 /* definition du footer */
 .footer{
   position: relative;
