@@ -108,7 +108,12 @@ hr{
   height: auto;
   overflow: hidden;
   box-shadow: 0 6px 16px -7px gray;
+}
 
+.horiz-layout p{
+  margin-left: 30%;
+  margin-right: 30%;
+  text-indent: 150px;
 }
 
 .speech{
