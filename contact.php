@@ -44,9 +44,7 @@
           Pleb working there
         </div>
         <hr />
-        <div class="">
-          A cool map
-        </div>
+        <div id="map" class="section"></div>
         <hr />
         <div class="">
           <h2>Enquiry Form</h2>
@@ -120,3 +118,5 @@
   </body>
 </html>
 <script src="js/animAccueil.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAP5-_PMQlai4erT9whJ8dmKxYKfj1g9Gs&callback=initMap"></script>
+<script src="js/googleMapContact.js"></script>
