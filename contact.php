@@ -35,8 +35,88 @@
       </div>
 
       <div class="main">
+        <div class="">
+          <h1>Contact Us</h1>
+          <p> What the fuck are we doing outta here </p>
+        </div>
+        <hr />
+        <div class="">
+          Pleb working there
+        </div>
+        <hr />
+        <div class="">
+          A cool map
+        </div>
+        <hr />
+        <div class="">
+          <h2>Enquiry Form</h2>
+          <p>
+            Please complete the enquiry form below with your contact details and enquiry.
+            Fields marked with * are mandatory
+          </p>
+          <form>
+            <div class="form-group">
+              <div class="col-xs-5">
+                <label>First Name</label>
+                <input type="text" class="form-control" placeholder="*">
+              </div>
+              <div class="col-xs-5">
+                <label>Surname</label>
+                <input type="text" class="form-control" placeholder="*">
+              </div>
+              <div class="col-xs-5">
+                <label>Job Title</label>
+                <input type="text" class="form-control" placeholder="*">
+              </div>
+              <div class="col-xs-5">
+                <label>Company</label>
+                <input type="text" class="form-control" placeholder="*">
+              </div>
+              <div class="col-xs-5">
+                <label>Address</label>
+                <textarea class="form-control" rows="3"></textarea>
+              </div>
+              <div class="col-xs-5">
+                <label>Postcode</label>
+                <input type="text" class="form-control" placeholder="">
+              </div>
+              <div class="col-xs-5">
+                <label>Country</label>
+                <select class="form-control">
+                  <option></option>
+                  <option>Italy</option>
+                  <option>France</option>
+                  <option>Spain</option>
+                  <option>Germany</option>
+                  <option>United States of America</option>
+                  <option>Plenty of shitty countries</option>
+                </select>
+              </div>
+              <div class="col-xs-5">
+                <label>Telephone</label>
+                <input type="text" class="form-control" placeholder="">
+              </div>
+              <div class="col-xs-5">
+                <label>How did your hear about us</label>
+                <select class="form-control">
+                  <option>Please Select</option>
+                  <option>Charlie told us</option>
+                  <option>Lost on internet</option>
+                </select>
+              </div>
+              <div class="col-xs-5">
+                <label>Email</label>
+                <input type="email" class="form-control" placeholder="*">
+              </div>
+              <div class="col-xs-5">
+                <label>Enquiry</label>
+                <textarea class="form-control" rows="3"></textarea>
+              </div>
+            </div>
+          </form>
+        </div>
 
-    </div>
+      </div>
   </body>
 </html>
 <script src="js/animAccueil.js"></script>
