@@ -14,7 +14,7 @@ function initMap() {
   disableDoubleClickZoom:true
   });
 
-  //just a commit test another one
+  //just a commit test another one last test then i kill myself
 
   // Create a marker and set its position.
   var marker = new google.maps.Marker({
