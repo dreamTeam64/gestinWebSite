@@ -122,9 +122,21 @@
 
         </div>
         <div id="map" class="section"></div>
+        <div class="footer">
+          <br>
+          <center>Crafted by Thoraval Francois, Gestin Loic and Fontaine Pierre</center>
+          <br>
+          <center>
+            <a href="#">plan du site</a>
+            <a href="#">contact us</a>
+            <a href="#">mentions légales</a>
+          </center>
+
+        </div>
       </div>
   </body>
 </html>
 <script src="js/animAccueil.js"></script>
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAP5-_PMQlai4erT9whJ8dmKxYKfj1g9Gs&callback=initMap"></script>
+<script <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAP5-_PMQlai4erT9whJ8dmKxYKfj1g9Gs&callback=initMap"
+    async defer></script>
 <script src="js/googleMapContact.js"></script>

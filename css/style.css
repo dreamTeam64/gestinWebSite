@@ -238,7 +238,10 @@ hr{
 }
 
 /* element de contact*/
-
+#map{
+	position: relative;
+	height: 500px;
+}
 .intro{
   text-align: center;
 }
