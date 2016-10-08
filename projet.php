@@ -58,7 +58,7 @@
         </div>
         <div class="horiz-layout" id="dakar">
           <div class="intro">
-            <h3>#Projet communication à Dakar (Sénégal) <a class="fa fa-link" aria-hidden="true" href="#chrono" target="_parent"></a></h3><br/>
+            <h3>#GROS PROJET DES FAMILLES (PREMIRE MODIFS LOL)à Dakar (Sénégal) <a class="fa fa-link" aria-hidden="true" href="#chrono" target="_parent"></a></h3><br/>  
           </div>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.
