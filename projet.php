@@ -36,6 +36,15 @@
 
       <div class="main">
         <div class="horiz-layout" id="chrono">
+          <center><h1>Timeline of our company</h1></center>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+            Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+          </p>
+
+          <center>
+          <i id="spinner" class="fa fa-spinner fa-spin fa-3x fa-fw"></i>
+        </center>
           <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1pv9HRzNu4bIs3y4OcFBqf9Ah-Y28HuE8NXZkHRjZ6hs&font=Default&lang=fr&initial_zoom=2&height=650' width='100%' height='650' frameborder='0'></iframe>
         </div>
         <div class="horiz-layout" id="sparfell">
@@ -49,7 +58,7 @@
         </div>
         <div class="horiz-layout" id="dakar">
           <div class="intro">
-            <h3>#Projet communication à Dakar (Sénégal) <a class="fa fa-link" aria-hidden="true" href="#chrono" target="_parent"></a></h3><br/>  
+            <h3>#Projet communication à Dakar (Sénégal) <a class="fa fa-link" aria-hidden="true" href="#chrono" target="_parent"></a></h3><br/>
           </div>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt.
@@ -69,3 +78,4 @@
   </body>
 </html>
 <script src="js/animAccueil.js"></script>
+<script src="js/timeline.js" charset="utf-8"></script>
