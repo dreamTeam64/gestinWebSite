@@ -41,62 +41,73 @@
       </div>
 
       <div class="main">
-        <div class="horiz-layout">
-          <div class="speech on-left">
-            <h3>un titre qui claque !</h3>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt. Fusce maximus, turpis ac rutrum efficitur, felis metus consequat augue, a tristique nisi neque ut dui. Morbi porta lacus eros, sit amet fermentum lectus aliquet tincidunt. Aliquam molestie vulputate ex.
-          </div>
-
-          <div class="encart on-right">
-            <div class="text-encart">
-              Petit résumé du lien ou le client va cliquer.
-            </div>
-            <div class="img-encart">
-              <span class="triangle"></span>
-              <img src="" alt="image de fond" />
-              <button type="button" name="go-to-page" class="btn btn-default btn-xs">voir ></button>
-            </div>
-          </div>
+        <div class="horiz-layout row">
+					<div class="col-md-6">
+						<div class="speech" >
+							<h3>un titre qui claque !</h3>
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt. Fusce maximus, turpis ac rutrum efficitur, felis metus consequat augue, a tristique nisi neque ut dui. Morbi porta lacus eros, sit amet fermentum lectus aliquet tincidunt. Aliquam molestie vulputate ex.
+						</div>
+					</div>
+					<div class="col-md-6">
+						<div class="encart">
+							<div class="text-encart">
+								Petit résumé du lien ou le client va cliquer.
+							</div>
+							<div class="img-encart">
+								<span class="triangle"></span>
+								<img src="" alt="image de fond" />
+								<button type="button" name="go-to-page" class="btn btn-default btn-xs">voir ></button>
+							</div>
+						</div>
+					</div>
         </div>
         <br>
         <div class="horiz-layout">
-          <div class="speech on-right">
-            <h3>un titre qui claque !</h3>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt. Fusce maximus, turpis ac rutrum efficitur, felis metus consequat augue, a tristique nisi neque ut dui. Morbi porta lacus eros, sit amet fermentum lectus aliquet tincidunt. Aliquam molestie vulputate ex.
-          </div>
-
-          <div class="encart on-left">
-            <div class="text-encart">
-              Petit résumé du lien ou le client va cliquer.
-            </div>
-
-            <div class="img-encart">
-              <span class="triangle"></span>
-              <img src="" alt="image de fond" />
-              <button type="button" name="go-to-page" class="btn btn-default btn-xs">voir ></button>
-            </div>
-          </div>
+          <div class="horiz-layout row">
+						<div class="col-md-6">
+							<div class="encart">
+								<div class="text-encart">
+									Petit résumé du lien ou le client va cliquer.
+								</div>
+								<div class="img-encart">
+									<span class="triangle"></span>
+									<img src="" alt="image de fond" />
+									<button type="button" name="go-to-page" class="btn btn-default btn-xs">voir ></button>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6">
+							<div class="speech" >
+								<h3>un titre qui claque !</h3>
+								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt. Fusce maximus, turpis ac rutrum efficitur, felis metus consequat augue, a tristique nisi neque ut dui. Morbi porta lacus eros, sit amet fermentum lectus aliquet tincidunt. Aliquam molestie vulputate ex.
+							</div>
+						</div>
+					</div>
         </div>
         <br>
         <div class="horiz-layout">
-          <div class="speech on-left">
-            <h3>un titre qui claque !</h3>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt. Fusce maximus, turpis ac rutrum efficitur, felis metus consequat augue, a tristique nisi neque ut dui. Morbi porta lacus eros, sit amet fermentum lectus aliquet tincidunt. Aliquam molestie vulputate ex.
-          </div>
-
-          <div class="encart on-right">
-            <div class="text-encart">
-              Petit résumé du lien ou le client va cliquer.
-            </div>
-            <div class="img-encart">
-              <span class="triangle"></span>
-              <img src="" alt="image de fond" />
-              <button type="button" name="go-to-page" class="btn btn-default btn-xs">voir ></button>
-            </div>
-          </div>
+          <div class="horiz-layout row">
+						<div class="col-md-6">
+							<div class="speech" >
+								<h3>un titre qui claque !</h3>
+								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt. Fusce maximus, turpis ac rutrum efficitur, felis metus consequat augue, a tristique nisi neque ut dui. Morbi porta lacus eros, sit amet fermentum lectus aliquet tincidunt. Aliquam molestie vulputate ex.
+							</div>
+						</div>
+						<div class="col-md-6">
+							<div class="encart">
+								<div class="text-encart">
+									Petit résumé du lien ou le client va cliquer.
+								</div>
+								<div class="img-encart">
+									<span class="triangle"></span>
+									<img src="" alt="image de fond" />
+									<button type="button" name="go-to-page" class="btn btn-default btn-xs">voir ></button>
+								</div>
+							</div>
+						</div>
+        	</div>
         </div>
       </div>
-
       <div class="footer">
         <br>
         <center>Crafted by Thoraval Francois, Gestin Loic and Fontaine Pierre</center>
@@ -106,7 +117,6 @@
           <a href="#">contact us</a>
           <a href="#">mentions légales</a>
         </center>
-
       </div>
     </div>
   </body>
