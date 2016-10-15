@@ -237,6 +237,18 @@ hr{
 }
 
 
+.border-right-active{
+	border-right: solid;
+	border-right-color: darkgrey;
+	border-width: thin;
+}
+
+.border-right-active p{
+	text-indent:50px;
+	width: 90%;
+	margin: auto;
+}
+
 .intro{
   text-align: center;
 }

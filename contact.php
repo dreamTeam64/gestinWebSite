@@ -38,52 +38,59 @@
         <div class="horiz-layout">
           <div class="row">
             <div class="col-md-4">
-              <div class="">
-                <center><h2>Contact Us</h2></center>
-                What the fuck are we doing outta here
+              <div class="container-fluid">
+                <center><h2>Nos Coordonnées</h2></center>
+								<br>
+                <address>
+									<strong>Sparfell, Inc.</strong><br>
+									12 rue du bourg<br>
+									Mont de Marsan 64000<br>
+									<abbr title="phone">Tel: </abbr>0559278976<br><br>
+									
+									<a href="mailto:#">first.last@example.com</a>
+								</address>
               </div>
               <hr />
-              <div class="">
-                Pleb working there
+              <div class="container-fluid">
+                Vous pouvez remplir ce formulaire, nous vous contacterons dès que nous aurons pris connaissance de votre demande.
               </div>
             </div>
 
             <div class="col-md-8">
               <div class="intro col-xs-10">
-                <h2>Enquiry Form</h2>
+                <h2>Formulaire de contact</h2>
 
-                Please complete the enquiry form below with your contact details and enquiry.
-                Fields marked with * are mandatory
+                Les champs ou une astérix figure (*) sont obligatoires.
               </div>
 
               <form>
                 <div class="form-group">
                   <div class="col-xs-5">
-                    <label>First Name</label>
+                    <label>Nom</label>
                     <input type="text" class="form-control" placeholder="*">
                   </div>
                   <div class="col-xs-5">
-                    <label>Surname</label>
+                    <label>Prénom</label>
                     <input type="text" class="form-control" placeholder="*">
                   </div>
                   <div class="col-xs-5">
-                    <label>Job Title</label>
+                    <label>Profession</label>
                     <input type="text" class="form-control" placeholder="*">
                   </div>
                   <div class="col-xs-5">
-                    <label>Company</label>
+                    <label>Entreprise</label>
                     <input type="text" class="form-control" placeholder="*">
                   </div>
                   <div class="col-xs-5">
-                    <label>Address</label>
+                    <label>Adresse</label>
                     <textarea class="form-control" rows="3"></textarea>
                   </div>
                   <div class="col-xs-5">
-                    <label>Postcode</label>
+                    <label>Code Postal</label>
                     <input type="text" class="form-control" placeholder="">
                   </div>
                   <div class="col-xs-5">
-                    <label>Country</label>
+                    <label>Pays</label>
                     <select class="form-control">
                       <option></option>
                       <option>Italy</option>
@@ -91,7 +98,6 @@
                       <option>Spain</option>
                       <option>Germany</option>
                       <option>United States of America</option>
-                      <option>Plenty of shitty countries</option>
                     </select>
                   </div>
                   <div class="col-xs-5">
@@ -99,11 +105,11 @@
                     <input type="text" class="form-control" placeholder="">
                   </div>
                   <div class="col-xs-5">
-                    <label>How did your hear about us</label>
+                    <label>Comment nous avez vous connu ?</label>
                     <select class="form-control">
-                      <option>Please Select</option>
-                      <option>Charlie told us</option>
-                      <option>Lost on internet</option>
+                      <option>bouche à oreille</option>
+                      <option>par hasard</option>
+                      <option>media</option>
                     </select>
                   </div>
                   <div class="col-xs-5">
@@ -111,7 +117,7 @@
                     <input type="email" class="form-control" placeholder="*">
                   </div>
                   <div class="col-xs-5">
-                    <label>Enquiry</label>
+                    <label>votre requête</label>
                     <textarea class="form-control" rows="3"></textarea>
                   </div>
                 </div>

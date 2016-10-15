@@ -20,7 +20,6 @@
     <div class="global">
       <!-- Header -->
       <div class="header">
-
         <div class="menu">
           <ul>
             <li><span class="glyphicon glyphicon-home" aria-hidden="true"></span><a href="./index.php">Home</a></li>
@@ -35,8 +34,36 @@
       </div>
 
       <div class="main">
-
-    </div>
+				<div class="horiz-layout">
+					<div class="container-fluid row">
+						<div class="col-md-6 border-right-active">
+							<h3>A propos de Sparfell Industry</h3><br>
+								<p>
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt. Fusce maximus, turpis ac rutrum efficitur, felis metus consequat augue, a tristique nisi neque ut dui. Morbi porta lacus eros, sit amet fermentum lectus aliquet tincidunt. Aliquam molestie vulputate ex.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt. Fusce maximus, turpis ac rutrum efficitur, felis metus consequat augue, a tristique nisi neque ut dui. Morbi porta lacus eros, sit amet fermentum lectus aliquet tincidunt. Aliquam molestie vulputate ex.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt. Fusce maximus, turpis ac rutrum efficitur, felis metus consequat augue, a tristique nisi neque ut dui. Morbi porta lacus eros, sit amet fermentum lectus aliquet tincidunt. Aliquam molestie vulputate ex.
+								</p>
+								
+							
+						</div>
+						<div class="col-md-6">
+							<h3>Nos Valeurs</h3><br><br>
+							
+							Nous croyons en la qualité de nos ressources.
+							
+						</div>
+					</div>
+				</div>
+    	</div>
+			<div class="footer">
+        <br>
+        <center>Crafted by Thoraval Francois, Gestin Loic and Fontaine Pierre</center>
+        <br>
+        <center>
+          <a href="#">plan du site</a>
+          <a href="#">contact us</a>
+          <a href="#">mentions légales</a>
+        </center>
+      </div>
+		</div>
   </body>
 </html>
 <script src="js/animAccueil.js"></script>
