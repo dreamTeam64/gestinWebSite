@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>Accueil</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="css/style.css" rel="stylesheet" type="text/css" media="all">
     <!-- Latest compiled and minified CSS -->
 	  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
@@ -41,7 +42,7 @@
       </div>
 
       <div class="main">
-        <div class="horiz-layout row">
+        <div class="horiz-layout">
 					<div class="col-md-6">
 						<div class="speech" >
 							<h3>un titre qui claque !</h3>
@@ -63,7 +64,7 @@
         </div>
         <br>
         <div class="horiz-layout">
-          <div class="horiz-layout row">
+
 						<div class="col-md-6">
 							<div class="encart">
 								<div class="text-encart">
@@ -82,11 +83,11 @@
 								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt. Fusce maximus, turpis ac rutrum efficitur, felis metus consequat augue, a tristique nisi neque ut dui. Morbi porta lacus eros, sit amet fermentum lectus aliquet tincidunt. Aliquam molestie vulputate ex.
 							</div>
 						</div>
-					</div>
+
         </div>
         <br>
         <div class="horiz-layout">
-          <div class="horiz-layout row">
+
 						<div class="col-md-6">
 							<div class="speech" >
 								<h3>un titre qui claque !</h3>
@@ -105,7 +106,7 @@
 								</div>
 							</div>
 						</div>
-        	</div>
+
         </div>
       </div>
       <div class="footer">

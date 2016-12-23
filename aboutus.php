@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>about us</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="css/style.css" rel="stylesheet" type="text/css" media="all">
     <!-- Latest compiled and minified CSS -->
 	  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
@@ -41,14 +42,14 @@
 								<p>
 							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt. Fusce maximus, turpis ac rutrum efficitur, felis metus consequat augue, a tristique nisi neque ut dui. Morbi porta lacus eros, sit amet fermentum lectus aliquet tincidunt. Aliquam molestie vulputate ex.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt. Fusce maximus, turpis ac rutrum efficitur, felis metus consequat augue, a tristique nisi neque ut dui. Morbi porta lacus eros, sit amet fermentum lectus aliquet tincidunt. Aliquam molestie vulputate ex.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium accumsan risus, malesuada dapibus felis euismod tincidunt. Fusce maximus, turpis ac rutrum efficitur, felis metus consequat augue, a tristique nisi neque ut dui. Morbi porta lacus eros, sit amet fermentum lectus aliquet tincidunt. Aliquam molestie vulputate ex.
 								</p>
-								
-							
+
+
 						</div>
 						<div class="col-md-6">
 							<h3>Nos Valeurs</h3><br><br>
-							
+
 							Nous croyons en la qualité de nos ressources.
-							
+
 						</div>
 					</div>
 				</div>

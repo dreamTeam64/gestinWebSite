@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>produits</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="css/style.css" rel="stylesheet" type="text/css" media="all">
     <!-- Latest compiled and minified CSS -->
 	  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
@@ -36,7 +37,28 @@
 
       <div class="main">
         <div class="horiz-layout">
-					
+					<div class="row container">
+						<ul class="nav nav-pills nav-stacked col-md-3 border-right-active">
+							<li role="presentation" class="active"><a>communication</a></li>
+								<ul class="nav nav-pills nav-stacked col-md-offset-2">
+									<li role="presentation" class=""><a>Antennes</a></li>
+									<li role="presentation" class=""><a>relais</a></li>
+									<li role="presentation" class=""><a>relais</a></li>
+								</ul>
+							<li role="presentation"><a>accessoires</a></li>
+								<ul class="nav nav-pills nav-stacked col-md-offset-2">
+									<li role="presentation" class=""><a>Batteries</a></li>
+									<li role="presentation" class=""><a>clips</a></li>
+									<li role="presentation" class=""><a>support</a></li>
+								</ul>
+						</ul>
+
+						<div class="col-md-9">
+							<center><h3>Nos Produits</h3></center><br>
+
+						</div>
+					</div>
+
         </div>
         <div class="footer">
           <br>
