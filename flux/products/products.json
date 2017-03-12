@@ -1,0 +1,28 @@
+{
+  "products" : {
+    "communication" : {
+      "Antennes" : {
+        "duracel" : {
+          "nom" : "hello",
+          "prix" : "300$"
+        },
+        "energizer" : {
+          "nom" : "hello",
+          "prix" : "300$"
+        },
+        "total" : {
+          "nom" : "hello",
+          "prix" : "300$"
+        }
+      }
+    },
+    "accessoire" : {
+      "batterie" : {
+        "duracel" : {
+          "nom" : "hello",
+          "prix" : "300$"
+        }
+      }
+    }
+  }
+}
