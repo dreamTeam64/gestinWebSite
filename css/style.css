@@ -230,6 +230,12 @@ hr{
   background-color: #64B5F6;
 }
 
+.service-img a{
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+
 /* element de contact*/
 #map{
 	position: fixed;
